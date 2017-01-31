@@ -1,0 +1,3 @@
+[submodule "sphinx-bootstrap-theme"]
+	path = sphinx-bootstrap-theme
+	url = https://github.com/grncdr/sphinx-bootstrap-theme.git
